@@ -74,10 +74,6 @@ Planned upgrades as my skills grow:
 
 ---
 
-📸 Preview
-
-(Project preview screenshot can be added here later.)
-
 ---
 
 👨‍💻 Author
